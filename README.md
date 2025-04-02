@@ -1,4 +1,4 @@
-# cv-detecting-people
+# spatial-tracking-cv
 
 The following video links to the result of running the code on an example video of people walking in a mall, where the numbers represent the current amount of people being detected in that particular zone.
 
